@@ -12,7 +12,6 @@ npm app
 ```
 App Info
 ===
-Auther
----
+##Auther
 Elatigh 
 
